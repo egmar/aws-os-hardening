@@ -1,0 +1,3 @@
+# DEV-SEC OS Hardening
+- name: DEV-SEC
+  serv: https://github.com/dev-sec/ansible-os-hardening.git
